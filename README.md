@@ -34,3 +34,7 @@ Matplotlib: A plotting library used for visualizing images.
 To install these dependencies, run:
 
 pip install torch torchvision pillow numpy matplotlib
+
+
+To use this project , download the two code files nerual style transfer 
+and streamlit usage and then follow the demo video 
