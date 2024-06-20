@@ -37,4 +37,5 @@ pip install torch torchvision pillow numpy matplotlib
 
 
 To use this project , download the two code files nerual style transfer 
-and streamlit usage and then follow the demo video 
+and streamlit usage and then follow the demo video in this google drive link
+https://drive.google.com/file/d/15erAj9UNQDnRO3k63bZI7_bvoA4NVaot/view?usp=sharing
